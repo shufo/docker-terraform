@@ -1,6 +1,6 @@
 FROM alpine:3.3
 
-ENV TERRAFORM_VERSION 0.6.15
+ENV TERRAFORM_VERSION 0.7.0
 ENV GLIBC_VERSION 2.23-r1
 
 RUN apk add --update wget ca-certificates unzip curl && \
