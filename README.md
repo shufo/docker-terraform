@@ -5,7 +5,8 @@ DockerHub repository is [here](https://hub.docker.com/r/shufo/terraform/)
 
 You can use these tags as a version of terraform.
 
-- `0.8.2`, `latest`
+- `0.8.3`, `latest`
+- `0.8.2`
 - `0.8.1`
 - `0.8.0`
 - `0.7.13`
